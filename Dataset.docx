@@ -1,0 +1,12 @@
+{"intents": [
+	{"tag" : "Mortality",
+	 "patterns" :["How much is the Covid-19 Mortality Rate", "How Many people die of Covid-19", "What is the percentage of death due to Covid-19", "Is Covid-19 Fatal"],
+	 "response" :["Covid-19 is Fatal for older people", "Mortality rate of Covid-19 is less than 10%", "Mortality rate of Covid-19 varies with Geography", 
+		      "More than 10 Million people have died of Covid-19", "Mortality rate is lesser in Younger people", "I know people who has died of Covid-19"]
+	},
+	{"tag" : "Origin",
+	 "patterns" :["Where did Covid-19 Originate", "Did Covid-19 Originate in Wuhan, China","From which species did Covid-19 Originate", "Does Covid-19 come from Bats", 
+		      "Did Covid-19 Originate from Pangolins","Where did Coronavirus originate"],
+	 "response" :["Origin is Covid-19 is not certain", "Covid-19 Originated in Wuhan sea food Market", "Covid-19 has likely come from Bats"]
+	},
+	
