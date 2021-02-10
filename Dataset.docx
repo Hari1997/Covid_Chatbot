@@ -32,7 +32,14 @@
 	},
 	{"tag" : "Vulnerable groups"
 	 "patterns" :["who is at risk of getting corona virus?", "What group of people are of higher risk to get coronavirus?", "who are most af risk of getting hospitalized due to covid-19", "What are the risk groups for COVID-19? ","who is at risk getting the virus and hence become sick?"],
-	 "response" :["People of all ages can be infected by COVID19. Older people and people with pre-existing medical conditions appear to be more vulnerable to becoming severely ill with the virus.", "WHO advises people of all ages to take steps to protect themselves from the virus, for example by following good hand hygiene and good respiratory hygiene.", "COVID-19 is often more severe in people 60+yrs or with health conditions like lung or heart disease, diabetes or conditions that affect their immune system.​", ]
+	 "response" :["People of all ages can be infected by COVID19. Older people and people with pre-existing medical conditions appear to be more vulnerable to becoming severely ill with the virus.", "WHO advises people of all ages to take steps to protect themselves from the virus, for example by following good hand hygiene and good respiratory hygiene.", "COVID-19 is often more severe in people 60+yrs or with health conditions like lung or heart disease, diabetes or conditions that affect their immune system.", "Pregnant women or recently pregnant women who are older, overweight, and have pre-existing medical conditions such as hypertension and diabetes seem to have an increased risk of developing severe COVID-19."]
 	},
+	{"tag" : "Age",
+	 "patterns" :["Are people of a particular age vulnerable to coronavirus disease?", "which age group are more at risk?", "I am 60 years old, am I more vulnerable to covid?", "Are small children more at risk to covid?","Are the youth safe from covid?"],
+	 "response" :["People of all ages can be infected by the COVID-19 virus.", "Older people and younger people can be infected by the COVID-19 virus", "Older people, and people with pre-existing medical conditions such as asthma, diabetes, and heart disease appear to be more vulnerable to becoming severely ill with the virus."]
+	},
+		{"tag" : "Pregnancy",
+	 "patterns" :["What to do as a pregnant woman?", "I am pregnant, what shall I do to protect myself from the virus?", "What should a pregnant woman do to stay safe from the Coronavirus?", "I'm expecting a baby. what can I do?", "I am with child and don’t know what to do"],
+	 "response" :["Pregnant women should take the same precautions to avoid COVID-19 infection as other people.", "Keeping space between yourself and others and avoiding crowded spaces. Wear a mask where it is not possible to keep sufficient physical distance between yourself and others ", "", "", "", ""]
 
 	
