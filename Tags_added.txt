@@ -1,9 +1,11 @@
 ////////////////////////////////Added////////////////////////////////////////
 Mortality
 Origin
-
-
-
+Lockdown
+Isolation
+Rules
+Mental Health
+Autority/Contact
 //////////////////////////////////To be added/////////////////////////////////
 Greeting
 GoodBye
@@ -46,15 +48,15 @@ Purchasing Groceries/Ecommerce
 Health & Fitness
 Salary Cuts
 Corona Intro
-Lockdown
+
 Age
-Isolation
-Rules
+
+
 Lapses/Bad decisions
-Mental Health
+
 Happiness
 Spanish Flu
-Autority/Contact
+
 Loneliness
 Work Hours
 Pregnancy
