@@ -6,6 +6,7 @@ Isolation
 Rules
 Mental Health
 Autority/Contact
+Vulnerable Groups
 //////////////////////////////////To be added/////////////////////////////////
 Greeting
 GoodBye
@@ -62,7 +63,7 @@ Work Hours
 Pregnancy
 Pollution
 Long term effects of Covid-19
-Vulnerable Groups
+
 Office/Schools Reopening
 Who Benefited Most from Covid-19
 Country
