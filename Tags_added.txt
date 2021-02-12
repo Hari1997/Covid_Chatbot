@@ -1,9 +1,15 @@
 ////////////////////////////////Added////////////////////////////////////////
 Mortality
 Origin
-
-
-
+Lockdown
+Isolation
+Rules
+Mental Health
+Autority/Contact
+Age
+Pregnancy
+Long term effects of Covid-19
+Vulnerable Groups
 //////////////////////////////////To be added/////////////////////////////////
 Greeting
 GoodBye
@@ -46,21 +52,19 @@ Purchasing Groceries/Ecommerce
 Health & Fitness
 Salary Cuts
 Corona Intro
-Lockdown
-Age
-Isolation
-Rules
+
+
+
 Lapses/Bad decisions
-Mental Health
+
 Happiness
 Spanish Flu
-Autority/Contact
+
 Loneliness
 Work Hours
-Pregnancy
+
 Pollution
-Long term effects of Covid-19
-Vulnerable Groups
+
 Office/Schools Reopening
 Who Benefited Most from Covid-19
 Country
