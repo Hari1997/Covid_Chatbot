@@ -40,6 +40,10 @@
 	},
 	{"tag" : "Pregnancy",
 	 "patterns" :["What to do as a pregnant woman?", "I am pregnant, what shall I do to protect myself from the virus?", "What should a pregnant woman do to stay safe from the Coronavirus?", "I'm expecting a baby. what can I do?", "I am with child and don’t know what to do"],
-	 "response" :["Pregnant women should take the same precautions to avoid COVID-19 infection as other people.", "Keeping space between yourself and others and avoiding crowded spaces. Wear a mask where it is not possible to keep sufficient physical distance between yourself and others ", "", "", "", ""]
-
+	 "response" :["Pregnant women should take the same precautions to avoid COVID-19 infection as other people.", "Keeping space between yourself and others and avoiding crowded spaces. Wear a mask where it is not possible to keep sufficient physical distance between yourself and others","pregnancy suppresses a person’s immune system, so pregnant women must take extra care by using mask and sanitizers, getting enough sleep and having a good diet."]
+        },
+        {"tag" : "Long term effects of Covid-19",
+	 "patterns" :["What are the long term effects of covid 19?", "Does the virus have other effects in the long run?", "I recovered from covid, what are the possible aftereffects?", "What long term effects can the corona virus have?","Can people suffer from aftereffects of the virus after recovering from it?"],
+	 "response" :["While most persons with COVID-19 recover and return to normal health, some patients can have symptoms that can last for weeks or even months after recovery from acute illness.", "The most commonly reported long-term symptoms include: Fatigue, Shortness of breath, Cough, Joint pain,  Chest pain.","More serious long-term complications appear to be less common but have been reported.These include: inflammation of the heart muscle, lung function abnormalities, acute kidney injury, rash, hair loss, Neurological: smell and taste problems, sleep issues, difficulty with concentration, memory problems."]
+	},
 	
