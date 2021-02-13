@@ -7,6 +7,14 @@ Rules
 Mental Health
 Autority/Contact
 Vulnerable Groups
+Long term effects of Covid-19
+Happiness
+Pregnancy
+Loneliness
+refusal to work
+Age
+Pollution
+Spanish Flu
 //////////////////////////////////To be added/////////////////////////////////
 Greeting
 GoodBye
@@ -50,19 +58,18 @@ Health & Fitness
 Salary Cuts
 Corona Intro
 
-Age
 
 
 Lapses/Bad decisions
 
-Happiness
-Spanish Flu
 
-Loneliness
-Work Hours
-Pregnancy
-Pollution
-Long term effects of Covid-19
+
+
+
+
+
+
+
 
 Office/Schools Reopening
 Who Benefited Most from Covid-19
