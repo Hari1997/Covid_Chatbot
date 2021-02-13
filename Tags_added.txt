@@ -10,6 +10,12 @@ Age
 Pregnancy
 Long term effects of Covid-19
 Vulnerable Groups
+Happiness
+Spanish Flu
+Loneliness
+Refusal to Work 
+
+Pollution
 //////////////////////////////////To be added/////////////////////////////////
 Greeting
 GoodBye
@@ -57,13 +63,8 @@ Corona Intro
 
 Lapses/Bad decisions
 
-Happiness
-Spanish Flu
 
-Loneliness
-Work Hours
 
-Pollution
 
 Office/Schools Reopening
 Who Benefited Most from Covid-19
