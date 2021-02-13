@@ -16,6 +16,7 @@ Loneliness
 Refusal to Work 
 
 Pollution
+Lapses/Bad decisions
 //////////////////////////////////To be added/////////////////////////////////
 Greeting
 GoodBye
@@ -61,7 +62,7 @@ Corona Intro
 
 
 
-Lapses/Bad decisions
+
 
 
 
