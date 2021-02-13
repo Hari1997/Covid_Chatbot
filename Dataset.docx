@@ -53,4 +53,16 @@
 	{"tag" : "Happiness",
 	 "patterns" :["How can I stay happy during the pandemic?", "What to do to stay happy during pandemic?", "Tips to stay happy and calm amid long-term Covid-19 pandemic", "What are some wellness tips during the COVID-19 pandemic?","Finding happiness and positivity during the pandemic"],
 	 "response" :["take care of your physical health", "Stay connected to other people.", "Be okay with feeling scared, sad, or anxious.", "We can improve our mood by focusing on the small things that bring happiness to us each day", "Distract yourself."]
-	
+	 },
+	 {"tag" : "Loneliness",
+	 "patterns" :["How can I look after myself when I'm lonely?", "What if I live alone and I'm in quarantine?", "How to beat loneliness during covid 19?", "I am feeling alone due to quarantine.","I am all by myself due to the pandemic, what can i do to feel less stressed out?"],
+	 "response" :["stay in touch with family and friends over the phone or on social media, to help you avoid feeling low or lonely", "try to keep yourself busy – you could try activities like cooking, reading, online learning and watching films", "do light exercise, if you feel well enough to"]
+	},
+	{"tag" : "Pollution",
+	 "patterns" :["What are effects of pollution?", "What causes of pollution?", "How can we reduce pollution?", "Who is affected by pollution?","What is pollution?],
+	 "response" :["Pollution may muddy landscapes, poison soils and waterways, or kill plants and animals. Humans are also regularly harmed by pollution.", "Pollution is the introduction of harmful materials into the environment. These harmful materials are called pollutants.", "The groups most affected by pollution are people of color, elderly residents, children with uncontrolled asthma, people with low immunity and people living in poverty.", "We can reduce pollution using the 3Rs- Reduce,Reuse, Recycle. Also by planting more trees, proper waste management and use of renewable energy sources."]
+	},
+	{"tag" : "Spanish Flu",
+	 "patterns" :["Is Spanish flu still around?", "How many people died of the Spanish flu?", "How many people were affected by the spanish flu?", "How long did it take for the Spanish flu to clear?","Symptoms of spanish flu],
+	 "response" :["'The 1918 flu is still with us'. The deadliest pandemic ever is still causing problems today.", "It is estimated that about 500 million people or one-third of the world's population became infected with this virus. The number of deaths was estimated to be at least 50 million worldwide", "The 1918 flu, also known as the Spanish Flu, lasted until 1920 and is considered the deadliest pandemic in modern history.", "The majority of the infected experienced only the typical flu symptoms of sore throat, headache, and fever, especially during the first wave. However, during the second wave the disease was much more serious, often complicated by bacterial pneumonia, which was often the cause of death"]
+	 },
